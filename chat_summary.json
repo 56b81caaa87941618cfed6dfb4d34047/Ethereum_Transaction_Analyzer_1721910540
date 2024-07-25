@@ -18,5 +18,11 @@
         "content": "Got it, working on adding a button with \"Hello World\".",
         "timestamp": "25072024123353",
         "message_id": "guest25072024123351"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Real-time transaction tracker\", \"checked\": true}, {\"feature\": \"Transaction history graph\", \"checked\": false}, {\"feature\": \"Search filter for transactions by address\", \"checked\": true}, {\"feature\": \"Notifications for high-value transactions\", \"checked\": false}, {\"feature\": \"Customizable 'Hello World' greeting settings\", \"checked\": true}, {\"feature\": \"Dark/Light mode toggle\", \"checked\": false}], \"input_token_count\": 215, \"output_token_count\": 92, \"time_taken\": \"0:00:03.621327\"}",
+        "timestamp": "25072024123356",
+        "message_id": "guest25072024123351"
     }
 ]
